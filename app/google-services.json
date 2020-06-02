@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "280176918320",
+    "firebase_url": "https://cardiovascular-disease-risk.firebaseio.com",
+    "project_id": "cardiovascular-disease-risk",
+    "storage_bucket": "cardiovascular-disease-risk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280176918320:android:b9950fa9869dd2303112f5",
+        "android_client_info": {
+          "package_name": "ro.uvt.asavoaei.andreea.cardiovascularapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280176918320-4mcd7kcma42vp9ngmmnh9nufiiffpibr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLPAwoorCQsW7W2IPBjFvDSBRuCCoK0Mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280176918320-4mcd7kcma42vp9ngmmnh9nufiiffpibr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280176918320:android:1ce1c394881f384e3112f5",
+        "android_client_info": {
+          "package_name": "ro.uvt.asavoaei.andreea.recordweather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280176918320-5gs35mta8hfek5qcad1v4l4mfeo4rdvr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ro.uvt.asavoaei.andreea.recordweather",
+            "certificate_hash": "9880d1b36f7fcd8ae61584cbc48614b0c59114af"
+          }
+        },
+        {
+          "client_id": "280176918320-4mcd7kcma42vp9ngmmnh9nufiiffpibr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLPAwoorCQsW7W2IPBjFvDSBRuCCoK0Mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280176918320-4mcd7kcma42vp9ngmmnh9nufiiffpibr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280176918320:android:e1d3c603f2dd87773112f5",
+        "android_client_info": {
+          "package_name": "ro.uvt.asavoaei.andreea.weatherrecord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280176918320-4mcd7kcma42vp9ngmmnh9nufiiffpibr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLPAwoorCQsW7W2IPBjFvDSBRuCCoK0Mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280176918320-4mcd7kcma42vp9ngmmnh9nufiiffpibr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
